@@ -38,7 +38,7 @@ export default function apply() {
                       on a wide array of problems and use concepts they learn in
                       class in real-world situations. You will also be able to
                       extend your knowledge by learning more about different
-                      tools and platforms used across the industry.
+                      tools and platforms used across the industry. Applications for Fall 2023 will open in September, 2023.
                     </p>
                   </Col>
                 </Row>
@@ -79,10 +79,10 @@ export default function apply() {
             </Col>
             <Col sm={4}>
               <Card body className="margin-bottom3">
-                <h5>Business Developer</h5>
+                <h5>Product Manager</h5>
                 <p>
                   Communicates with clients and the software team to deliver a
-                  product that suits the needs of the client. Developers bring
+                  product that suits the needs of the client. PMs bring
                   in perspective of companies and clients and proactively engage
                   in project acquisitions.
                 </p>
